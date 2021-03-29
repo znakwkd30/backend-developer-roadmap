@@ -44,5 +44,5 @@ Local DNS 서버가 여러 DNS 서버에 차례대로 (Root DNS 서버 -> com DN
 ```
 
 ## 참고 자료📚
-[DNS와 작동원리 velog](https://velog.io/@goban/DNS%EC%99%80-%EC%9E%91%EB%8F%99%EC%9B%90%EB%A6%AC)  
-[DNS? 작동원리 velog](https://velog.io/@doomchit_3/Internet-DNS-%EC%9E%91%EB%8F%99%EC%9B%90%EB%A6%AC-IMBETPY)
+- [DNS와 작동원리 velog](https://velog.io/@goban/DNS%EC%99%80-%EC%9E%91%EB%8F%99%EC%9B%90%EB%A6%AC)
+- [DNS? 작동원리 velog](https://velog.io/@doomchit_3/Internet-DNS-%EC%9E%91%EB%8F%99%EC%9B%90%EB%A6%AC-IMBETPY)
